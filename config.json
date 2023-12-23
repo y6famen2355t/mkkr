@@ -1,10 +1,10 @@
 { 
-"prefix":"!",
-"owner":["ايدي الاونر"],
-"ownerId":"ايدي الاونر",
-"clientId":"ايدي البوت",
-"token":"توكن البوت",
-"mainguild":"ايدي السيرفر الاساسي",
-"guild_invite" : "رابط السيرفر الاساسي",
-"database":"رابط المونجو"
+"prefix":"ls",
+"owner":["942756853899730975"],
+"ownerId":"942756853899730975",
+"clientId":"1187225048508014653",
+"token":"MTE4NzIyNTA0ODUwODAxNDY1Mw.GA-0c7.aiU7MaWnyJ0bWUH3CPelzUv_9W3tKXqOzuIfcQ",
+"mainguild":"1179070919071776848",
+"guild_invite" : "https://discord.com/invite/QvSHss3W",
+"database":"mongodb+srv://7RnsNuuqGvFCT7SX:7RnsNuuqGvFCT7SX@cluster0.hcwrqvn.mongodb.net/?retryWrites=true&w=majority"
 }
